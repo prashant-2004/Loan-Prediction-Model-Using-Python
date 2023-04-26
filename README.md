@@ -20,6 +20,7 @@ Ex.  	Credit History > 0
 
 Probabilistic Machine Learning Algorithm based on the Bayes theorem. 
       Formulae- P(A|B) = ( P(B|A) P(A) ) /  P(B)
+      
       P(A|B) – Likelihood of occurrence of A, 
       P(B|A) – Likelihood of occurrence of B, 
       P(A) – probability of Occurrence of A, 
