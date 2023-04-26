@@ -7,16 +7,23 @@ ALGORITHMS --
 
 Mainly, we need to use the Supervised Machine Learning Algorithms of Classification and regression for Loan Prediction.
 
-1.Decision Tree Classification(Low Accuracy) – create Tree with different conditions in Parent Node and gives output in Leaf Node as YES or NO i.e. Is he/she able to approve the loan or not.
+1.Decision Tree Classification(Low Accuracy) – 
+
+create Tree with different conditions in Parent Node and gives output in Leaf Node as YES or NO i.e. Is he/she able to approve the loan or not.
 
 Ex.  	Credit History > 0
-			Annual Income > 4Lakhs
-			Then Only, Approve Loan Otherwise Reject.
+	Annual Income > 4Lakhs
+	Then Only, Approve Loan Otherwise Reject.
 
-2.Naive Bayes Classification(Gives better Accuracy) – Probabilistic Machine Learning Algorithm based on the Bayes theorem. 
+
+2.Naive Bayes Classification(Gives better Accuracy) –
+
+Probabilistic Machine Learning Algorithm based on the Bayes theorem. 
       Formulae- P(A|B) = ( P(B|A) P(A) ) /  P(B)
       P(A|B) – Likelihood of occurrence of A, 
-      P(B|A) – Likelihood of occurrence of B,    P(A) – probability of Occurrence of A,     P(B) – probability of Occurrence of B.  
+      P(B|A) – Likelihood of occurrence of B, 
+      P(A) – probability of Occurrence of A, 
+      P(B) – probability of Occurrence of B.  
       
       
 
