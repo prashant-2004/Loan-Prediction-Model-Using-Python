@@ -9,7 +9,7 @@ Mainly, we need to use the Supervised Machine Learning Algorithms of Classificat
 
 1.Decision Tree Classification(Low Accuracy) – 
 
-create Tree with different conditions in Parent Node and gives output in Leaf Node as YES or NO i.e. Is he/she able to approve the loan or not.
+This algorithm will create Tree with different conditions in Parent Node and gives output in Leaf Node as YES or NO i.e. Is he/she able to approve the loan or not.
 
 Ex.  	Credit History > 0
 	Annual Income > 4Lakhs
@@ -18,7 +18,7 @@ Ex.  	Credit History > 0
 
 2.Naive Bayes Classification(Gives better Accuracy) –
 
-Probabilistic Machine Learning Algorithm based on the Bayes theorem. 
+This is the Probabilistic Machine Learning Algorithm based on the Bayes theorem. 
       Formulae- P(A|B) = ( P(B|A) P(A) ) /  P(B)
       P(A|B) – Likelihood of occurrence of A, 
       P(B|A) – Likelihood of occurrence of B, 
