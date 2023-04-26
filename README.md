@@ -18,6 +18,7 @@ I had attached the .pdf which explains all about the Model with the steps which 
 
 
 ALGORITHMS --
+
 Mainly, we need to use the Supervised Machine Learning Algorithms of Classification and regression for Loan Prediction.
 
 1.Decision Tree Classification(Low Accuracy) – create Tree with different conditions in Parent Node and gives output in Leaf Node as YES or NO i.e. Is he/she able to approve the loan or not.
