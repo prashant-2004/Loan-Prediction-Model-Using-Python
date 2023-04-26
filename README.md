@@ -38,6 +38,7 @@ Python Libraries used in this Project –
 		
 		pip install pandas
 		
+		
 2.	NumPy-
 	
 	 	 pip install numpy
@@ -49,6 +50,13 @@ Python Libraries used in this Project –
 4.	Scikit-learn-
 	
 		pip install scikit-learn
+		
+
+If there occurs the error of PREMISSION or any user access is needed while installing libraries - then use this command
+
+		
+		pip install library_name --user
+		
 
 This model gives you a output in array of 1 & 0 which indicates the yes or no for loan assigning.
 
