@@ -20,7 +20,6 @@ Ex.  	Credit History > 0
 
 Probabilistic Machine Learning Algorithm based on the Bayes theorem. 
       Formulae- P(A|B) = ( P(B|A) P(A) ) /  P(B)
-      
       P(A|B) – Likelihood of occurrence of A, 
       P(B|A) – Likelihood of occurrence of B, 
       P(A) – probability of Occurrence of A, 
@@ -36,10 +35,21 @@ then, type cmd " pip install requirements.txt " - This will install all librarie
 If you are using Pycharm, then, you have to install the libraries manually from 'file->settings' menu in pycharm which I am specifying below.
 
 Python Libraries used in this Project – 
-1.	Pandas- pip install pandas
-2.	NumPy- pip install numpy
-3.	Matplotlib- pip install matplotlib
-4.	Scikit-learn- pip install scikit-learn
+1.	Pandas- 
+		
+		pip install pandas
+		
+2.	NumPy-
+	
+	 	 pip install numpy
+		 
+3.	Matplotlib-
+	
+	 	 pip install matplotlib
+		 
+4.	Scikit-learn-
+	
+		pip install scikit-learn
 
 This model gives you a output in array of 1 & 0 which indicates the yes or no for loan assigning.
 
