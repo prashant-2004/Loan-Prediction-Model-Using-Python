@@ -27,7 +27,6 @@ This is the Probabilistic Machine Learning Algorithm based on the Bayes theorem.
       
       
 
-
 To run this model, you need to be installed with python and its path setup with cmd
 I had attached the requirements.txt files which contains all libraries need to be install to run the model successfully.
 You have to go to this "Loan-Prediction-Model-Using-Python" folder on cmd if you are downloading zip file. 
